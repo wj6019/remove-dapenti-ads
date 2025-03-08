@@ -32,10 +32,18 @@
 - [Chrome 用户](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [Firefox 用户](https://addons.mozilla.org/firefox/addon/tampermonkey/)
 
-### 第二步：安装脚本
-点击以下链接，一键安装脚本：  
-[📥 安装 Remove Dapenti Ads 脚本](https://github.com/wj6019/remove-dapenti-ads/raw/main/remove-dapenti-ads.js)
+### 第二步： 一键安装
 
+点击以下链接即可一键安装该油猴脚本：
+
+[一键安装](https://github.com/wj6019/remove-dapenti-ads/raw/main/remove-dapenti-ads.js)
+
+##  或者 手动安装
+
+1. 复制 [remove-dapenti-ads.js](https://github.com/wj6019/remove-dapenti-ads/raw/main/remove-dapenti-ads.js) 的内容。
+2. 打开油猴扩展，点击“添加新脚本”。
+3. 将内容粘贴到编辑器中并保存。
+4. 
 ### 第三步：享受无广告浏览
 访问 [喷嚏网](https://www.dapenti.com)，广告将自动消失！
 
