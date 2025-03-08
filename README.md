@@ -34,7 +34,7 @@
 
 ### 第二步：安装脚本
 点击以下链接，一键安装脚本：  
-[📥 安装 Remove Dapenti Ads 脚本](https://github.com/wj6019/remove-dapenti-ads/raw/main/remove-dapenti-ads.user.js)
+[📥 安装 Remove Dapenti Ads 脚本](https://github.com/wj6019/remove-dapenti-ads/raw/main/remove-dapenti-ads.js)
 
 ### 第三步：享受无广告浏览
 访问 [喷嚏网](https://www.dapenti.com)，广告将自动消失！
