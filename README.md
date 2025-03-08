@@ -36,7 +36,7 @@
 
 点击以下链接即可一键安装该油猴脚本：
 
-[一键安装](javascript:(function(){window.location.href='https://github.com/wj6019/remove-dapenti-ads/raw/main/remove-dapenti-ads.js';})())
+[一键安装](https://update.greasyfork.org/scripts/529194/%E5%85%A8%E5%B1%80%E7%A7%BB%E9%99%A4%E5%96%B7%E5%9A%8F%E7%BD%91%E5%B9%BF%E5%91%8A%EF%BC%88%E5%8C%85%E6%8B%AC%E4%BA%8C%E7%BA%A7%E9%A1%B5%E9%9D%A2%EF%BC%89.user.js)
 
 
 ##  或者 手动安装
