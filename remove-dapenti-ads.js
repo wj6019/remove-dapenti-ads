@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  自动去除https://www.dapenti.com博客及其二级页面中的所有广告
-// @author       Your Name
+// @author       wj6019
 // @match        https://www.dapenti.com/*
 // @grant        none
 // ==/UserScript==
